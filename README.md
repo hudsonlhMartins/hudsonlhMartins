@@ -5,6 +5,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/hudson-martins-b5997a160/)
 
 ![Hudson's GitHub stats](https://github-readme-stats.vercel.app/api?username=hudsonlhMartins&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonlhMartins)](https://github.com/hudsonlhMartins/github-readme-stats)
+
 
 ## Tecnologias que usou todos os dias 💻
 
@@ -18,6 +20,7 @@
 
 </div>
 <br>
+
 Apaixonado por tecnologia, adoro aprender novas techs. 
 <br>
 Atualmente estou estudando Node-js e MongoDB
