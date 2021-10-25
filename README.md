@@ -1,8 +1,8 @@
 ### Oi!! Eu sou Hudson Martins 🤙
 
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/hudson_isco/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/hudson-martins-b5997a160/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudson-martins-b5997a160/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hudson_isco/)
 
 ![Hudson's GitHub stats](https://github-readme-stats.vercel.app/api?username=hudsonlhMartins&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonlhMartins)](https://github.com/hudsonlhMartins/github-readme-stats)
