@@ -20,7 +20,3 @@
 
 </div>
 <br>
-
-Apaixonado por tecnologia, adoro aprender novas techs. 
-<br>
-Atualmente estou estudando Node-js e MongoDB
